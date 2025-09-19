@@ -134,7 +134,8 @@
   #main-button {
     position: relative;
     height: 16.5%;
-    aspect-ratio: 175 / 44;
+    margin-top: 20px;;
+    aspect-ratio: 150 / 44;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -165,7 +166,7 @@
     font-style: normal;
     font-weight: 400;
     line-height: normal;
-    margin-top: 4px;
+    margin-top: 20px;
   }
   
   /* Responsive Styles for Mobile */
