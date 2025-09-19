@@ -31,7 +31,7 @@ let currentIndex = 0;
 // Function to change images with fade effect
 function updateImage() {
   // Fade out current image
-  imageContent.style.opacity = 0;
+  imageContent.style.opacity = 1;
   
   // Preload next image
   const img = new Image();
