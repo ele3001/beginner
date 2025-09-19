@@ -1,8 +1,7 @@
 // =============================================
 // STEP 1: Set up the image array 
 // =============================================
-// Array of all images to cycle through
-// Customize these paths to your own images
+
 const images = [
   './assets/image-content/image-1.png',
   './assets/image-content/image-2.png',
